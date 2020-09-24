@@ -14,6 +14,7 @@ A curated list of awesome remote jobs
   1. [jobsremotely](https://jobsremotely.com)
   1. [Gun.io](http://gun.io/)
   1. [Remote Coder](http://remotecoder.io)
+  1. [Ruby On Remote](https://rubyonremote.com/) - aggregates remote jobs for Ruby developers
 
 ## Companies
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
